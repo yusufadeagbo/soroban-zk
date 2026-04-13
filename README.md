@@ -82,4 +82,4 @@ The reference circuit exposes one public input, `commitment`, and one private in
 - The verifier currently hardcodes one circuit's verifying key.
 - The contract is intentionally stateless; nullifiers and key registries are future extensions, not MVP scope.
 
-See [docs/zk-primer.md](/home/amuda/sorobanzk/docs/zk-primer.md) and [docs/proof-format.md](/home/amuda/sorobanzk/docs/proof-format.md) for the detailed background and byte-level interoperability spec.
+See [docs/zk-primer.md](https://github.com/yusufadeagbo/soroban-zk/blob/main/docs/zk-primer.md) and [docs/proof-format.md](https://github.com/yusufadeagbo/soroban-zk/blob/main/docs/proof-format.md) for the detailed background and byte-level interoperability spec.
